@@ -1,0 +1,12 @@
+diff --git a/Admin.java b/Admin.java
+index 18a7b0c..6db2570 100644
+--- a/Admin.java
++++ b/Admin.java
+@@ -1,5 +1,5 @@
+ public class Admin{
+ 	public static void main(String[] args){
+-		
++		System.out.println("²¹¶¡");
+ 	}
+ }
+\ No newline at end of file
